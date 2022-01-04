@@ -1,0 +1,17 @@
+{
+  "name": "@example/starter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@astrojs/renderer-svelte": "^0.3.0",
+    "@vitejs/plugin-legacy": "^1.6.4",
+    "astro": "^0.22.3",
+    "vite-plugin-html": "^2.1.2"
+  }
+}
